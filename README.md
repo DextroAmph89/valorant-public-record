@@ -1,9 +1,11 @@
 
-# code was largely taken from https://github.com/deadly/valorant-stream-yoinker deadly, only added some cool stuff now that streamer yoinker is broken :3
+# code was largely taken from https://github.com/deadly/valorant-stream-yoinker deadly, only added some cool stuff now that streamer yoinker is broken :3|
 
 # valorant-public-record
 
 valorant public record resolves the hidden usernames of players cowering behind streamer mode by interrogation of multiple local riot client endpoints in real time. these resolved identities are committed to a local cache; should you find them in a subsequent encounter, they are revealed even if are hidden in your live match. the post match final scoreboard is used to retroactively update the log. panzis who use streamer mode and don't stream are cringe. it also tells you who is qued with who and pastes tracker.gg links to each individual in the lobby in cmd.
+
+# in the future might add something to store all ids in a massive database online that will match hidden user ids to reveal if enough people use the program 
 
 # how to use
 
