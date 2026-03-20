@@ -10,7 +10,7 @@ init(autoreset=True, convert=True)
 running = True
 seenMatches = []
 
-print('Valorant Identity Scanner - High-Speed Mode')
+print('valorant public record')
 
 # Load settings for region and interval
 try:
