@@ -19,7 +19,7 @@ class Game:
         self.players = players
         self.localPlayer = localPlayer
 
-        # Link players by match history IDs to find "Traveling Shadows"
+        # Link players by match history
         self.identify_parties(self.players)
 
         self.teamPlayers = self.find_team_players(self.localPlayer, self.players)
@@ -93,7 +93,7 @@ class Game:
         """Pulls the final scoreboard to unmask players for future encounters."""
         print(f"\n{YELLOW}[SYSTEM] Match ended. Parsing final scoreboard...{RESET}")
         try:
-            # Single consistent fetch - no wrapper fallback needed
+            # Single consistent fetch
             match_details = client.fetch(
                 f"/match-details/v1/matches/{self.matchID}",
                 endpoint_type="pd"
