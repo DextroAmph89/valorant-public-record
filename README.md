@@ -39,7 +39,7 @@ example of revealed player (revealed meaning hidden username player) during live
 <img width="703" height="384" alt="image" src="https://github.com/user-attachments/assets/b439436e-384d-4f7d-9594-50f54139d695" />
 
 
-if a user is in a future match of yours in the same sesion with this program open you will be able to reveal them because of the cache
+if a user is in a future match of yours in the same session with this program open you will be able to reveal them because of the cache
 
 # viewing the cache
 
