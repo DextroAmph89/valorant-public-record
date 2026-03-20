@@ -17,7 +17,7 @@ first edit player.py and add your username (just the username not the tag) so yo
 
 open cmd and type "cd [path where files extracted]", press enter, then type "python main.py"
 
-when scan is finished either type "twitch" to scan for twitch usernames or wait until the match is ends to logged revealed players into cache
+when scan is finished either type "twitch" to scan for twitch usernames or wait until the match is ends log revealed players into cache
 there is a chance you can reveal someone live during a match but it comes down to luck/manually looking at the parties to see someone without streamermode
 # examples
 
