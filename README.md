@@ -19,7 +19,7 @@ open cmd and type "cd [path where files extracted]", press enter, then type "pyt
 
 when scan is finished either type "twitch" to scan for twitch usernames or wait until the match ends and type "done" to log revealed players into cache and overwrite hidden players in cache/identity log
 
-# there is a chance you can reveal someone live during a match but its luck based. manually looking at the [party] seeing who is qued with who and if one of them has streamer mode on and the other doesn't can easily be done by copying and pasting the trackerr link from the program
+# there is a chance you can reveal someone live during a match but its luck based. manually looking at the [party] seeing who is qued with who and if one of them has streamer mode on and the other doesn't can easily be done by copying and pasting the tracker link from the program
 
 # examples
 
