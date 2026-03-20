@@ -43,7 +43,7 @@ if a user is in a future match of yours in the same sesion with this program ope
 
 # viewing the cache
 
-open cmd and type in cd [directory where session_viewer.py is located] and then type python main.py
+open cmd and type in cd [directory where session_viewer.py is located] and then type python session_viewer.py
 
 example of viewing each person logged per session:
 
