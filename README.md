@@ -55,7 +55,9 @@ example of viewing each person logged per session:
 
 # can this get me banned
 
-use at own risk but it won't be a perma ban if they do end up banning anyone who uses this (unless repeat offender prob)
+use at own risk, only one documented "high level" case of a tier 2/3 pro player getting perma banned using the code this project was iterated from. 
+
+he was given a temporary suspension instead by itsgamerdoc and perma was reversed
 
 # faq
 
