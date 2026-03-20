@@ -34,7 +34,7 @@ twitch
 <img width="653" height="84" alt="image" src="https://github.com/user-attachments/assets/ca443c97-21d8-45f3-865f-a972d81c253b" />
 
 
-example of revealed player during live match
+example of revealed player (revealed meaning hidden username player) during live match
 
 <img width="703" height="384" alt="image" src="https://github.com/user-attachments/assets/b439436e-384d-4f7d-9594-50f54139d695" />
 
