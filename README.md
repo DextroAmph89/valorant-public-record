@@ -9,7 +9,7 @@ valorant public record resolves the hidden usernames of players cowering behind 
 
 make sure valorant is open before running
 
-first edit player.py and add your username so you don't log yourself consistently, then edit settings.json and enter your region. type in one of these within the quotations in settings.json: NA, EU, LATAM, BR, AP, KR, and PBE.
+first edit player.py and add your username (just the username not the tag) so you don't log yourself consistently, then edit settings.json and enter your region. type in one of these within the quotations in settings.json: NA, EU, LATAM, BR, AP, KR, and PBE.
 
 <img width="904" height="247" alt="image" src="https://github.com/user-attachments/assets/cee7d949-cf08-4fd9-b45a-568dfc3afaaf" />
 
