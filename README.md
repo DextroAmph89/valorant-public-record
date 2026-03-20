@@ -61,7 +61,14 @@ answer: when you are out of agent select and all possible names are logged, hidd
 
 question: i need help installing 
 
-use search engine and type "how to install python & run code from github" 
+answer: use search engine and type "how to install python & run code from github" 
+
+question: why make this program if people wanna stay private
+
+answer: fuck you 
+
+![bobby-shmurda-money-dance](https://github.com/user-attachments/assets/f7b45504-77e6-4bdb-b55e-03911463fda1)
+
 
 # license
 
