@@ -224,7 +224,7 @@ class Player:
             return None, None
 
     def set_name(self, puuid):
-        # 0. Cache first — fastest path, no API calls needed
+        # 0. Cache first 
         cache = load_cache()
         if puuid in cache:
             return cache[puuid]
@@ -258,7 +258,7 @@ class Player:
                                     return self._cache_and_return(puuid, a["game_name"], a.get("tag_line", "???"), "L2_ALIAS")
                     except: pass
 
-                    # LAYER 3: Chat participants (teammates only)
+                    # LAYER 3: Chat participants
                     try:
                         r = requests.get(f"{local_url}/chat/v5/participants",
                                          headers=local_headers, verify=False, timeout=1)
@@ -285,7 +285,7 @@ class Player:
                                         except: pass
                     except: pass
 
-                # LAYER 5: PD name service (works for enemies, may be blocked server-side)
+                # LAYER 5: PD name service
                 try:
                     pd_res = self.client.put(endpoint="/name-service/v2/players", endpoint_type="pd", json_data=[puuid])
                     if pd_res and len(pd_res) > 0:
