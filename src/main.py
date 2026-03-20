@@ -100,7 +100,7 @@ while running:
                 localPlayer=localPlayer
             )
 
-            print("--- Resolving Identities ---")
+            print("--- exposing ---")
             currentGame.find_hidden_names(players)
 
             print('='*55 + '\n')
@@ -137,7 +137,7 @@ while running:
                         print(f"\n{YELLOW}[TWITCH] No live streamers found in this lobby.{RESET}")
 
                 else:
-                    print("\n--- Re-scanning Identities ---")
+                    print("\n--- re-scanning identities ---")
                     # Re-run full identity resolution so live API hits and cache updates apply
                     for p in players:
                         p.full_name = p.set_name(p.puuid)
