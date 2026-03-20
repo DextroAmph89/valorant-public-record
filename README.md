@@ -3,7 +3,7 @@
 
 # valorant-public-record
 
-valorant public record resolves the hidden usernames of players cowering behind streamer mode by interrogation of multiple local riot client endpoints in real time. these resolved identities are committed to a local cache; should you find them in a subsequent encounter, they are revealed even if they were hidden before. the post match final scoreboard is used to retroactively update the log. panzis who use streamer mode and don't stream are cringe. it also tells you who is qued with who and pastes tracker.gg links to each individual in the lobby in cmd.
+valorant public record resolves the hidden usernames of players cowering behind streamer mode by interrogation of multiple local riot client endpoints in real time. these resolved identities are committed to a local cache; should you find them in a subsequent encounter, they are revealed even if are hidden in your live match. the post match final scoreboard is used to retroactively update the log. panzis who use streamer mode and don't stream are cringe. it also tells you who is qued with who and pastes tracker.gg links to each individual in the lobby in cmd.
 
 # how to use
 
