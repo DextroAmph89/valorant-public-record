@@ -1,6 +1,6 @@
 <meta name="google-site-verification" content="2yt4i3kLYL6SmmbYdvnQsT8wPgBng9mcFI4zP9GMO8M" />
 
-# code was largely taken from https://github.com/deadly/valorant-stream-yoinker deadly, only added some cool stuff now that streamer yoinker is broken :3
+# code was largely taken from https://github.com/deadly/valorant-stream-yoinker deadly, (valorant streamer yoinker) only added some cool stuff now that streamer yoinker is broken :3
 
 # valorant public record
 
